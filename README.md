@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chang856
-- 👀 I’m interested in J2EE, AI
+- 👀 I’m interested in J2EE, AI and Stock
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
